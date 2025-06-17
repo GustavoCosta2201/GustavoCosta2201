@@ -72,8 +72,6 @@
 
 ---
 
-## 🐍 Snake Contributions
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/GustavoCosta2201/GustavoCosta2201/output/snake.svg" alt="Snake animation" />
 </p>
