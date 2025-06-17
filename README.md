@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Gustavo Costa Vaz Garcia</h1>
 
 <p align="center">
-  Sou um desenvolvedor brasileiro com 2 anos de experiência em TI, apaixonado por desenvolvimento Back-End, APIs e sistemas educacionais. Atualmente estudando Engenharia de Software e explorando tecnologias como Blazor, C#, C, bancos de dados e automações.
+  Sou um desenvolvedor brasileiro, apaixonado por desenvolvimento Back-End, APIs e sistemas educacionais. Atualmente estudando Engenharia de Software e explorando tecnologias como Blazor, C#, C, bancos de dados e automações.
 </p>
 
 ---
